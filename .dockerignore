@@ -1,0 +1,10 @@
+.gradle
+build
+out
+target
+*.iml
+.idea
+*.log
+*.class
+*.jar
+node_modules
